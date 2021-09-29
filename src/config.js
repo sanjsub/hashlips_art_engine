@@ -5,7 +5,7 @@ const baseUri = "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 3,
     layersOrder: [
       { name: "Background" },
       { name: "Eyeball" },
